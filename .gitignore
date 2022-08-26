@@ -1,0 +1,15 @@
+# Git
+.git
+
+# Java
+target
+*.class
+*.jar
+
+# IntelliJ
+.idea
+*.iml
+
+# Logs
+logs
+*.log
